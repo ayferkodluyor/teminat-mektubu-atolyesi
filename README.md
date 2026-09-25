@@ -31,7 +31,8 @@ mektup_motoru.py
 
 ▶️ Uygulamayı Çalıştırma
 Öncelikle Streamlit kurulmalıdır: pip install streamlit
-
 Ardından proje klasöründe: python -m streamlit run main.py  komutu çalıştırılır.
 
+## 📸 Uygulama Görünümü
+![Teminat Mektubu Asistanı](teminat-mektubu-asistani.jpg)
 
