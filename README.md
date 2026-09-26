@@ -30,7 +30,9 @@ Streamlit kullanıcı arayüzünü ve uygulamanın temel akışını içerir.
 mektup_motoru.py
 Örnek mektup şablonlarını ve seçilen bilgilere göre metin oluşturma fonksiyonunu içerir.
 
+
 ▶️ Uygulamayı Çalıştırma
+
 Öncelikle Streamlit kurulmalıdır: pip install streamlit
 
 Ardından proje klasöründe: python -m streamlit run main.py  komutu çalıştırılır.
