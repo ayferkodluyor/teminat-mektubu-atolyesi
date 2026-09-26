@@ -23,6 +23,7 @@ Python
 Streamlit
 
 📁 Proje Dosyaları
+
 main.py
 Streamlit kullanıcı arayüzünü ve uygulamanın temel akışını içerir.
 
