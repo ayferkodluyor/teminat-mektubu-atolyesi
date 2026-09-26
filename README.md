@@ -18,9 +18,7 @@ Uygulamada kurum ve mektup türüne göre uygun şablon Python sözlük yapısı
 Kullanıcının girdiği bilgiler ilgili alanlara yerleştirilerek mektup metni dinamik olarak oluşturulur.
 Oluşturulan metin uygulama içerisinde düzenlenebilir ve indirilerek tarayıcı üzerinden yazdırılabilir veya PDF olarak kaydedilebilir.
 
-🛠 Kullanılan Teknolojiler
-Python
-Streamlit
+🛠 Kullanılan Teknolojiler : Python  Streamlit
 
 📁 Proje Dosyaları
 
